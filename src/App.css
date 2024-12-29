@@ -29,22 +29,22 @@ h2 {
     height: 35px;
     padding: 5PX;
     border: 1px rgb(133, 132, 132) solid;
-    border-radius: 9px;
+    border-radius: 8px;
     margin-bottom: 15px;
 }
 
 button {
     padding: 5px;
-    margin-left: 6px;
+    margin-left: 5px;
     width: 80px;
     height: 35px;
-    border-radius: 9px;
+    border-radius: 8px;
 }
 
 .weather-details {
+    background: linear-gradient(145deg, rgb(65, 106, 196), rgb(221, 219, 219));
     width: 500px;
     border-radius: 4px;
     text-align: center;
-    background: linear-gradient(145deg, rgb(65, 106, 196), rgb(221, 219, 219));
     line-height: 2.5;
 }
